@@ -18,9 +18,9 @@ namespace wbs;
  * - Use object orientation
  * - Follow the DRY principle - again: follow the DRY principle! :-)
  * - Follow the SOLID principles, when suitable
- * - Code as elegant and beautiful as possible
+ * - Code as elegantly and beautifully as possible
  * - At least follow PSR-2 standards
- * - and KISS - if we don't understand your code, we won't hire you :-)
+ * - And KISS - if we don't understand your code, we won't hire you :-)
  *
  * When you are done, satisfied and proud of your work,
  * please wrap the git repository in a ZIP file (don't forget the last commit)
