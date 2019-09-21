@@ -1,5 +1,5 @@
-/.idea/
-/vendor/
-/composer.lock
-/tests/.phpunit.result.cache
-/solution/ours/*
+/mytask/.idea/
+/mytask/vendor/
+/mytask/composer.lock
+/mytask/tests/.phpunit.result.cache
+/mytask/solution/ours/*
